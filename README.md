@@ -9,6 +9,14 @@
 
 
 
+龙芯开源社区：
+
+- 龙芯开源社区 http://www.loongnix.cn/zh/
+- Loongnix操作系统 http://www.loongnix.cn/zh/loongnix/
+- 龙芯上的.NET http://www.loongnix.cn/zh/api/dotnet/
+
+
+
 龙芯官方地址：
 
 - 中科云官方论坛地址：https://bbs.ctcisz.com
