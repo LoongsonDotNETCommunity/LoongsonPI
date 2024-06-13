@@ -11,7 +11,7 @@
 
 龙芯派CookBook仓库：
 
-- LoongsonPICookbook https://github.com/JusterZhu/LoongsonPICookbook
+- LoongsonPICookbook https://github.com/LoongsonDotNETCommunity/LoongsonPICookbook
 
 
 
