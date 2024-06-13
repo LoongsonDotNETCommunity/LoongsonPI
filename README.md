@@ -9,6 +9,12 @@
 
 
 
+龙芯派CookBook仓库：
+
+- LoongsonPICookbook https://github.com/JusterZhu/LoongsonPICookbook
+
+
+
 龙芯开源社区：
 
 - 龙芯开源社区 http://www.loongnix.cn/zh/
