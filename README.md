@@ -21,6 +21,7 @@
 - 龙芯开源社区 http://www.loongnix.cn/zh/
 - Loongnix操作系统 http://www.loongnix.cn/zh/loongnix/
 - 龙芯上的.NET http://www.loongnix.cn/zh/api/dotnet/
+- 龙芯开源仓库 https://gitee.com/open-loongarch
 
 
 
